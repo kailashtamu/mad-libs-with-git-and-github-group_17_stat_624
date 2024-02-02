@@ -1,9 +1,9 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
+1. Hemanth
+2. Intelligent
+3. Charismatic
+4. Pink
+5. June
+6. 25
 7. Noun (Plural)
 8. Noun (Plural)
 9. Noun
