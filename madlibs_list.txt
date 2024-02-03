@@ -9,11 +9,11 @@
 9. tree
 10. slytherin
 11. coffee
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
+12. fantastic
+13. carbon fibre
+14. driving
+15. fast
+16. 7
 17. Unit of Time
 18. Different Activity
 19. Adjective
