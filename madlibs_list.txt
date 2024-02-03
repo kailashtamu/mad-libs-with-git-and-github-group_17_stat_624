@@ -4,11 +4,11 @@
 4. Pink
 5. June
 6. 25
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+7. zebras
+8. lions
+9. tree
+10. slytherin
+11. coffee
 12. Adjective
 13. Material
 14. Activity
